@@ -32,9 +32,14 @@ rm -fr js
 rm -fr fonts
 rm -fr css
 rm -fr ppck
+rm -fr pmck
 cp -av "$src/images" .
 cp -av "$src/js" .
 cp -av "$src/fonts" .
 cp -av "$src/css" .
-cp -v "$1/p/index.json" ./p/index.1.json
+cp -av "$src/p" .
 cp -av "$src/ppck" .
+cp -av "$src/m" .
+cp -av "$src/pmck" .
+cp -v "$src/p/index.json" ./p/index.1.json
+cp -v "$src/m/index.json" ./m/index.1.json
