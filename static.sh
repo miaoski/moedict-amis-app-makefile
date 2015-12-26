@@ -1,4 +1,4 @@
 #!/bin/bash
 cd moedict-amis/assets/www/
-cp cordova.js.local cordova.js
+cp -v cordova.js.local cordova.js
 static-here
