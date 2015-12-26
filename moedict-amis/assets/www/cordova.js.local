@@ -1,2 +1,4 @@
 window.cordova = { require: true };
 window.ALL_ALANGUAGES = true;
+window.STANDALONE = 'p';
+window.PRERENDER_LANG = 'p';
