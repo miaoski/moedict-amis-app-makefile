@@ -1,0 +1,22 @@
+version: 2.0.2
+apkFileName: moedict-amis-5.5.0.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '7'
+  targetSdkVersion: '8'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '55000'
+  versionName: 5.5.0
+sharedLibrary: false
+doNotCompress:
+- resources.arsc
+- assets/www/quit.html
+- assets/www/p/=.json
+- assets/www/p/index.2.json
+- assets/www/p/xref.json
+- assets/www/ppck/80.txt
