@@ -10,8 +10,8 @@ sdkInfo:
 packageInfo:
   forced-package-id: '127'
 versionInfo:
-  versionCode: '55000'
-  versionName: 5.5.0
+  versionCode: '55100'
+  versionName: 5.5.1
 sharedLibrary: false
 doNotCompress:
 - resources.arsc
