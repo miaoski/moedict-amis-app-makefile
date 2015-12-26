@@ -1,19 +1,8 @@
 #!/bin/bash
 # Copy from moedict-amis (amis-react branch) to make a new APK
 
-if [ $# -ne 2 ]; then
-	echo "Usage: $0 [path-to-moedict-amis] [path-to-new-apk]"
-	exit 1
-fi
-
-pushd .
-cd "$1"
-src="`pwd`"
-popd
-pushd .
-cd "$2/assets/www"
-dst="`pwd`"
-popd
+src="/Users/philippe/github/moedict-webkit"
+dst="/Users/philippe/github/apk-amis/moedict-amis/assets/www"
 
 cd $src
 make js/deps.js
@@ -37,9 +26,7 @@ cp -av "$src/images" .
 cp -av "$src/js" .
 cp -av "$src/fonts" .
 cp -av "$src/css" .
-cp -av "$src/p" .
 cp -av "$src/ppck" .
-cp -av "$src/m" .
 cp -av "$src/pmck" .
 cp -v "$src/p/index.json" ./p/index.1.json
 cp -v "$src/m/index.json" ./m/index.1.json
