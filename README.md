@@ -3,5 +3,4 @@
 1. keystore.sh -- 解開 keystore
 1. copy.sh -- 從 moedict-webkit 拷貝檔案
 1. static.sh -- static-here 看看有沒有問題
-1. sign.sh -- 簽章，上傳到手機
-1. release.sh -- 發佈
+1. sign.sh -- 簽章，上傳到手機，發佈
