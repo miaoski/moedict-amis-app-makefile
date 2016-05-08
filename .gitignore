@@ -5,3 +5,5 @@ tmp.rsa.pem
 cert.x509.pem
 Socialtext.keystore
 moedict-amis/build/
+*.apk
+moedict-5.5.3

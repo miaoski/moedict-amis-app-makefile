@@ -1,19 +1,24 @@
 #!/bin/bash
 # Copy from moedict-amis (amis-react branch) to make a new APK
 
-src="/Users/philippe/github/moedict-webkit"
-dst="/Users/philippe/github/apk-amis/moedict-amis/assets/www"
+src="/home/ljm/github/moedict-webkit"
+dst="/home/ljm/github/apk-amis/moedict-amis/assets/www"
 
-cd $src
-make js/deps.js
+# cd $src
+# gulp build
 
-cd $dst
+cd $dst || exit 10
 cp -v "$src/about.html" .
 cp -v "$src/index.html" .
 cp -v "$src/main.ls" .
 cp -v "$src/view.ls" .
-cp -v "$src/revdict-amis-def.txt" .
-cp -v "$src/revdict-amis-ex.txt" .
+cp -v "$src/styles.css" .
+for lang in p m s; do
+	mkdir -p $lang
+	cp -v "$src/$lang/revdict-amis-def.txt" ./$lang/
+	cp -v "$src/$lang/revdict-amis-ex.txt" ./$lang/
+	cp -v "$src/$lang/index.json" ./$lang/index.1.json
+done
 lsc -c main.ls
 lsc -c view.ls
 rm -fr images
@@ -28,5 +33,4 @@ cp -av "$src/fonts" .
 cp -av "$src/css" .
 cp -av "$src/ppck" .
 cp -av "$src/pmck" .
-cp -v "$src/p/index.json" ./p/index.1.json
-cp -v "$src/m/index.json" ./m/index.1.json
+cp -av "$src/psck" .

@@ -1,0 +1,528 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: l8XuuKxcJcBtsgn0TCNOUDtl1mQ=
+
+Name: res/drawable/info.png
+SHA1-Digest: h3xIXLzdP6zWRa9bA1eXum/P/+g=
+
+Name: assets/www/ppck/105.txt
+SHA1-Digest: smqM4jXirQQ8WCg1rImmtxckCzA=
+
+Name: assets/www/images/info.png
+SHA1-Digest: Klqd6UIrmENM5xrWRDI0R6GpY7E=
+
+Name: assets/www/css/cupertino/jquery-ui-1.10.4.custom.css
+SHA1-Digest: 5xok0kNT1SZ2F5q4czOwcBNaE3U=
+
+Name: assets/www/ppck/76.txt
+SHA1-Digest: oT9gOFBkFiXY8+FIDByJiHol0ek=
+
+Name: assets/www/ppck/84.txt
+SHA1-Digest: bh4qn+t5r8V/WVBqwjXzkIG2W/A=
+
+Name: assets/www/js/raf.min.js
+SHA1-Digest: GBJ0FOUwN7HhlRf8LQKThfXGy8k=
+
+Name: assets/www/js/prelude-browser-min.js
+SHA1-Digest: mCXfioKqErahPFJtczZw0/na40o=
+
+Name: assets/www/js/bootstrap/alert.js
+SHA1-Digest: ZqwaLtVH9T1H/+Qh85c13iN6Q8w=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: xZvmyCZGd2mFLka9dSqr5xdEMPI=
+
+Name: assets/www/js/raphael.js
+SHA1-Digest: PpIiwlzkMSsWS4U0sLTaelaD/uU=
+
+Name: res/drawable-hdpi-v4/lang.png
+SHA1-Digest: oIyOT43IhsBtzDx8CVL65LbDbo4=
+
+Name: assets/www/images/noise.png
+SHA1-Digest: rmdLdcR6ex0I6TagdWUrT/Z3TfI=
+
+Name: res/drawable-ldpi-v4/large.png
+SHA1-Digest: s8jkVu+Myi3/yBCghT6+clX9vfE=
+
+Name: assets/www/css/cupertino/images/ui-icons_ffffff_256x240.png
+SHA1-Digest: Sqi0fCAddy8oukDb24BpT3kq5SI=
+
+Name: res/drawable/splash.png
+SHA1-Digest: zkhwgDFDBq2hKT9KZwqqsdf1pII=
+
+Name: assets/www/css/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png
+SHA1-Digest: nZwQaR5eQEO+I9zVQoeZ1fkkVsA=
+
+Name: res/drawable-ldpi-v4/small.png
+SHA1-Digest: mLJGqOV9l0MHdqrQkAUblgkLxpA=
+
+Name: assets/www/js/polyfill.min.js
+SHA1-Digest: GMWoQBSCe0hg734dbf6w7eEAZeA=
+
+Name: res/drawable/lang.png
+SHA1-Digest: 1a1aXtugp4HRh/QQGO4yQbeB2bk=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: fxlA6jGuDH69VdNj1o8+ECB2Fwc=
+
+Name: assets/www/ppck/107.txt
+SHA1-Digest: fseTzAo5Eyb57fTWaWVU8h/z/88=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: JSah05jtr3aHgv0Yoz5KofeSVEg=
+
+Name: assets/www/fonts/fontawesome-webfont.ttf
+SHA1-Digest: UZVBFbozQLeXjeNIY9hAi3ZaHLg=
+
+Name: res/drawable-hdpi-v4/quit.png
+SHA1-Digest: ZauNafIGh3h/VCG+MT81XE6Ol3o=
+
+Name: assets/www/images/quit.png
+SHA1-Digest: XGXD0hzKXAnlsTKH95ghICeiQUs=
+
+Name: assets/www/index.no-react.html
+SHA1-Digest: /wQpgWwmCapz6dZrWuMzzhs4g7Q=
+
+Name: assets/www/images/g0v-icon-invert.png
+SHA1-Digest: l6AC7L2mSXFR57GMWYoq2F3GKx0=
+
+Name: assets/www/ppck/97.txt
+SHA1-Digest: 5YnRTX/R+zoo7aAZ0U5mMz6MHqA=
+
+Name: assets/www/js/bootstrap/popover.js
+SHA1-Digest: ilV6uJcAJr60Y1tHJ0Fx/cnS4v8=
+
+Name: assets/www/cordova.js
+SHA1-Digest: PUtlbFwcQSKfEITNYvVysylfGpU=
+
+Name: assets/www/css/google_play.jpg
+SHA1-Digest: TobCUlygy0hpML7TUBmxNH5wBuk=
+
+Name: assets/www/ppck/72.txt
+SHA1-Digest: /Hfo4ut0UYULI5T7Atf0RaFV0bs=
+
+Name: assets/www/main.ls
+SHA1-Digest: e37+sx8F6YbrI7fDAGMehiEhJm8=
+
+Name: assets/www/css/cupertino/images/ui-bg_glass_50_3baae3_1x400.png
+SHA1-Digest: qBdScx1s8gPRguzFtnnqwLN6+Is=
+
+Name: res/drawable-xhdpi-v4/down.png
+SHA1-Digest: id0uktDNRDCxW+MAd3WzXSNVxJg=
+
+Name: assets/www/js/html-jsx-lib.js
+SHA1-Digest: iSdM3dm8lbXfpLHtB/2Rc67hPhM=
+
+Name: assets/www/revdict-amis-ex.txt
+SHA1-Digest: omreZ6l5qUMH+tFOEijmpl5l7nk=
+
+Name: assets/www/js/bootstrap/affix.js
+SHA1-Digest: 79v2wf6JUUDaxVjvKY6HsVi2z54=
+
+Name: assets/www/fonts/EBAS-Subset.ttf
+SHA1-Digest: jVUdJOOTC969XgzWLEiJ5IyYWjc=
+
+Name: res/drawable-hdpi-v4/down.png
+SHA1-Digest: cKtmumFI4sg8P4zRbtUyP53mbHw=
+
+Name: assets/www/ppck/112.txt
+SHA1-Digest: gG8cwjNe5jh1GKf9dvomRs7Ximk=
+
+Name: res/drawable-ldpi-v4/lang.png
+SHA1-Digest: FYVpjDQuK75lsUGYd6ncjesmo74=
+
+Name: assets/www/main.no-react.js
+SHA1-Digest: EEZPR5Lzf1+16BmGJSoruTQGOGU=
+
+Name: res/drawable/small.png
+SHA1-Digest: udzmsVakp3p1XQrElUgO2Bq+1xk=
+
+Name: res/drawable-ldpi-v4/info.png
+SHA1-Digest: rQyGpCF7a6YtOlOeLSX+J5DrKT4=
+
+Name: res/drawable-xhdpi-v4/quit.png
+SHA1-Digest: DPvutxbR9/ntMMCR9Ft+kQQWM4k=
+
+Name: assets/www/js/deps.js
+SHA1-Digest: 9DD1xVuF3rVDQuK6bkrbkvvl0XA=
+
+Name: assets/www/js/simp-trad.js
+SHA1-Digest: aVqGIlqwSrp3DIEfhcFGZAgScdU=
+
+Name: resources.arsc
+SHA1-Digest: O/RIZdWWWA0BTPMHqOheAs8P4iM=
+
+Name: assets/www/js/react.min.js
+SHA1-Digest: vh57OT1jrL7oDQZyp77O10PyGns=
+
+Name: assets/www/css/cupertino/jquery-ui-1.10.2.custom.css
+SHA1-Digest: 4bvVkQqTtvaLU8NEbc8a6EhKPOA=
+
+Name: assets/www/ppck/73.txt
+SHA1-Digest: DiaGwM0qCB81I7p/xYPhJud36Fg=
+
+Name: assets/www/config.xml
+SHA1-Digest: syT77ley0nFSR7brZuSbq1K8tCo=
+
+Name: assets/www/manifest.webapp
+SHA1-Digest: 4TXWwLL3ANmF8B2E4v5zsyGqsWQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: lfLHL4xQ8Tuu25BE/1RyaD2osH0=
+
+Name: assets/www/js/bootstrap/button.js
+SHA1-Digest: q+7jXf7eUIcm17SkzncF6ac02pU=
+
+Name: assets/www/js/bootstrap/modal.js
+SHA1-Digest: azStw3trmVMgUK0W0LflEpRTYiU=
+
+Name: assets/www/js/JSXTransformer.js
+SHA1-Digest: yktHv+QGegyI/Co44hZAxqWSui0=
+
+Name: res/drawable-mdpi-v4/down.png
+SHA1-Digest: 2psFYswhdouePJK9Z3266LSPl90=
+
+Name: assets/www/css/cupertino/images/animated-overlay.gif
+SHA1-Digest: v9whLfoVLwg92hCEm16k42Kb6jo=
+
+Name: res/drawable-ldpi-v4/splash.png
+SHA1-Digest: mhoAp6fFA5H1ALGc9MDcP/htUtU=
+
+Name: assets/www/images/leather_x2.jpg
+SHA1-Digest: jvTbS8eTiWfNjwuiWlM/qC8+KTE=
+
+Name: assets/www/js/bootstrap/dropdown.js
+SHA1-Digest: ngs2vzC6DYl4FqkGXEP5x9Fkgsw=
+
+Name: assets/www/css/cupertino/images/ui-icons_3d80b3_256x240.png
+SHA1-Digest: K3sroMOlxl6ol/46v0DprN5WFbE=
+
+Name: assets/www/js/gl-matrix-min.js
+SHA1-Digest: Xrynh8KKHV7WPxlxxPrzdQ/aai4=
+
+Name: assets/www/js/clamp.min.js
+SHA1-Digest: dIc6hLVa0TpO4zVxhwDzDgBLCQY=
+
+Name: classes.dex
+SHA1-Digest: cGnBlKjrLppfdWw7kgka/me7BV0=
+
+Name: assets/www/ppck/102.txt
+SHA1-Digest: 4QpQ70DJY1YuHAyP50vde3zQCLE=
+
+Name: assets/www/css/cupertino/jquery-ui-1.10.2.custom.min.css
+SHA1-Digest: 2AiSBL8SkKOMVIGwT8Umb9lsCos=
+
+Name: assets/www/ppck/68.txt
+SHA1-Digest: N9unXtnnI+LIiu47FE2QgItr/+E=
+
+Name: assets/www/css/cupertino/jquery-ui-1.10.0.custom.css
+SHA1-Digest: QiUlASNYLS6Hra5DmKhH6ZGIF6A=
+
+Name: assets/www/js/sax.js
+SHA1-Digest: 3xcFI4PU1dmsxNbVpmNr+tVjvNc=
+
+Name: res/drawable/icon.png
+SHA1-Digest: VVRUfmo5rgRpNcjdEh2jvee2vvo=
+
+Name: assets/www/main.js
+SHA1-Digest: KFxEpAt0aIShWuRcSaW49NBUcHU=
+
+Name: res/drawable/quit.png
+SHA1-Digest: KgTFpu8tLQ6JCFBzoxGrbpDSh5Q=
+
+Name: assets/www/images/leather.jpg
+SHA1-Digest: JH+tzigI1EjYZ8mcJUPEO6JuiDo=
+
+Name: assets/www/js/react-0.11.0.js
+SHA1-Digest: i9Gu8JDgfDpzyYEAubS7OfoZ2fs=
+
+Name: res/drawable-xhdpi-v4/large.png
+SHA1-Digest: u+MLDnETBKR8X4mVDHcG5Y1bPK0=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: czYjE5zjT4cAwQrymWlGkupy32o=
+
+Name: assets/www/fonts/MOEDICT.ttf
+SHA1-Digest: S05iLmv9+E9HkKZTj0fQXsBWmbk=
+
+Name: assets/www/css/cupertino/images/ui-icons_72a7cf_256x240.png
+SHA1-Digest: 22KPdQN1Vv5uLyTskrOOrWv5QVo=
+
+Name: assets/www/ppck/65.txt
+SHA1-Digest: AnhYN3DPbzmYkVlOQWCOK2k5OWo=
+
+Name: assets/www/p/xref.json
+SHA1-Digest: GV8qiDgYqfCO55LUJhGeY4et9ZA=
+
+Name: assets/www/revdict-amis-def.txt
+SHA1-Digest: F60jaTsEE5Z9f7UWEDO6nGFbAmg=
+
+Name: assets/www/ppck/114.txt
+SHA1-Digest: utv6MwVC6wh5+AqQb1WehkBSKsA=
+
+Name: assets/www/images/lang.png
+SHA1-Digest: WmJgIfnLlmfBkuA29lEgjr0khOQ=
+
+Name: assets/www/fonts/FiraSansOT-Regular.ttf
+SHA1-Digest: 7jFvCnPOh7NECRJOpJ6xq/070Ws=
+
+Name: assets/www/css/cupertino/images/ui-bg_highlight-soft_100_deedf7_
+ 1x100.png
+SHA1-Digest: Cjk8rwRWqbvoUPxnbPdyt9J3SS0=
+
+Name: assets/www/css/cupertino/jquery-ui-1.10.4.custom.min.css
+SHA1-Digest: Sp1wY4EYJkJFGNXmo32eqJIscwI=
+
+Name: res/drawable-xhdpi-v4/lang.png
+SHA1-Digest: 0FPvxpFwGuRI4wM9C3NhI6iRybI=
+
+Name: assets/www/css/cupertino/images/ui-icons_2694e8_256x240.png
+SHA1-Digest: P6s8kZ3WArIliwwtaArUsL9ElYo=
+
+Name: assets/www/js/jquery.hoverIntent.js
+SHA1-Digest: Sd0byBAqtdt/TjCs62JFTzooMmY=
+
+Name: assets/www/images/subtle_stripes.png
+SHA1-Digest: VwFMgnSBpzLC66k/fgvGABbp6Hk=
+
+Name: assets/www/ppck/111.txt
+SHA1-Digest: OAxp+ObVjESr8p3Q2Y4lSCy6U8s=
+
+Name: assets/www/quit.html
+SHA1-Digest: iDhvkXLLnqybvJ+8P/gBGPWumjw=
+
+Name: res/drawable-hdpi-v4/info.png
+SHA1-Digest: Q0tZ4jD3r+MPGMcwEMCGb58mrqk=
+
+Name: res/drawable-ldpi-v4/down.png
+SHA1-Digest: k/XjTbZvid8Xa70CEVq1mawAxpI=
+
+Name: assets/www/ppck/116.txt
+SHA1-Digest: eu5N1gSxaDh/JqlX43US6uu6+dA=
+
+Name: assets/www/js/bootstrap/collapse.js
+SHA1-Digest: yuTyY7YocXRSnglyqL7TTKQFvmk=
+
+Name: res/drawable-mdpi-v4/lang.png
+SHA1-Digest: ONNJtS5ZDQvR0i20KtzqMBXKm+I=
+
+Name: assets/www/about.html
+SHA1-Digest: KmpXd3JX9rUAEfgB2+h+rkQE4Ak=
+
+Name: assets/www/images/down.png
+SHA1-Digest: fGwUA1oFUCdqF/ZzlCcjMSLCUVk=
+
+Name: assets/www/js/bootstrap/transition.js
+SHA1-Digest: s13pATeUgBdNx/jm3yg73BDfm6Y=
+
+Name: assets/www/ppck/115.txt
+SHA1-Digest: wNVTit+OSrDtqhUxqktZhqSkUxg=
+
+Name: assets/www/css/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_
+ 40x40.png
+SHA1-Digest: EtLT6Y5CHg7a1tpUXzNhD3qWzrc=
+
+Name: assets/www/js/bootstrap/tab.js
+SHA1-Digest: ulN4HnbdsHzfCGQD7c+hKbKsEaY=
+
+Name: assets/www/ppck/121.txt
+SHA1-Digest: rutyAPv7qOBRkA3sVj8KrlO4yew=
+
+Name: assets/www/ppck/70.txt
+SHA1-Digest: K6l57U+syq5kaqg6YMGDgFFyK38=
+
+Name: assets/www/images/back.png
+SHA1-Digest: +S7Bq6upFY8r1yRt0IM2mp0nli8=
+
+Name: assets/www/styles.css
+SHA1-Digest: F7bwP2Y5jey5BdbUso4yKZ8n49s=
+
+Name: res/drawable-mdpi-v4/quit.png
+SHA1-Digest: cQT3WwkkYKsLJ4Pv5oXyy3925Rs=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: NQiOPMbWZ+ZkmZYohzX8SbbLBig=
+
+Name: assets/www/js/bootstrap/tooltip.js
+SHA1-Digest: AjHaOni9ZNP93IJQLs5+Mud1ufw=
+
+Name: assets/www/images/erase.png
+SHA1-Digest: aDz0yR0jiKiT4HAxauDMNs8CAZQ=
+
+Name: assets/www/js/jquery-ui-1.10.4.custom.min.js
+SHA1-Digest: ca1fU9uDTeTEPrRn5AkuRzhTCz8=
+
+Name: assets/www/images/icon.png
+SHA1-Digest: TOubixXakWLmb/ybl/taQFu/suw=
+
+Name: res/drawable-xhdpi-v4/small.png
+SHA1-Digest: OAzcwqoX4i7oHEI7y6eXozUWjco=
+
+Name: res/drawable/large.png
+SHA1-Digest: k1wJ/LDmDLeWWpUR/CeWZgexBPI=
+
+Name: assets/www/js/bootstrap.js
+SHA1-Digest: pzRm7Fks//mmqHsxsPfJSodhpkc=
+
+Name: res/layout/main.xml
+SHA1-Digest: 8hmR57s/EYfdUWfMAhG2zME50OA=
+
+Name: assets/www/css/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1
+ x100.png
+SHA1-Digest: ktB5wc4t4pVGfd0/X9Z3DnqJSbk=
+
+Name: assets/www/ppck/110.txt
+SHA1-Digest: 1xXfXw2O+YgzIParMtJ1C0dWMy4=
+
+Name: assets/www/js/jquery.strokeWords.js
+SHA1-Digest: toyV1gINw3CPJ5QzTVqpVVyY8/0=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 8Smuq4xBK+E9LcZoxf6VAlVy5Q8=
+
+Name: assets/www/ppck/75.txt
+SHA1-Digest: KqPvCKOvC0V25IcijorqAIsGV2Q=
+
+Name: assets/www/view.js
+SHA1-Digest: i6Qejnx8Zx0ZlOXq5hyXW20hTrY=
+
+Name: res/drawable-hdpi-v4/small.png
+SHA1-Digest: SQtmkqAgilIKmbX2E64v0tfKU6g=
+
+Name: assets/www/css/cupertino/images/ui-icons_2e83ff_256x240.png
+SHA1-Digest: bmQoS75H/m5nLj1aCWxv7sI+Rns=
+
+Name: assets/www/index.html
+SHA1-Digest: fBbOGTQMScUVbLajBnoQ4zittd4=
+
+Name: res/drawable-xhdpi-v4/info.png
+SHA1-Digest: zobq6a6tvNYCiTJKVOnEIhXEMd8=
+
+Name: assets/www/ppck/108.txt
+SHA1-Digest: GYV6ZRI276t9/FsdustiW8fKfNA=
+
+Name: assets/www/ppck/87.txt
+SHA1-Digest: YCZ67qwHlB/THk2ygsFINDCyDyg=
+
+Name: assets/www/images/subtle_stripes_x2.png
+SHA1-Digest: 2/kWAAOs2s1mh2IH+2dBsv4snNE=
+
+Name: assets/www/css/cupertino/jquery-ui-1.10.0.custom.min.css
+SHA1-Digest: vXPnHfuKmxzYjyGLzBxsddfs9MI=
+
+Name: res/menu/example.xml
+SHA1-Digest: B8hqrz5rJXD46pDOtac8WgkImu8=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: asllohowg9PTFjb8Od5eHKM7BMQ=
+
+Name: res/drawable/down.png
+SHA1-Digest: kujQ0AajMjyXFuH39goyyVtaobc=
+
+Name: assets/www/ppck/104.txt
+SHA1-Digest: 7Sbab9CfzYaHxZEGaLY5cKmoP2A=
+
+Name: assets/www/p/=.json
+SHA1-Digest: JbMP+jmIrpKu1DKsJ7xVHsVhSZ8=
+
+Name: assets/www/css/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png
+SHA1-Digest: LvTz74rsn+G0te5DjgBcUdqshjI=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: gZMwEh5LWFgiuHSV8DSoKSJfXdU=
+
+Name: assets/www/p/index.1.json
+SHA1-Digest: opXzRS+Ph7DvbVuANRC1B2Qu/44=
+
+Name: assets/www/css/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png
+SHA1-Digest: rt7rFjnsNvmQd17CSb5L3Q3iKGA=
+
+Name: assets/www/ppck/103.txt
+SHA1-Digest: mCY1wPF5PgYDEsd+If6O8hC0Mug=
+
+Name: assets/www/ppck/99.txt
+SHA1-Digest: UN7jjb3QOc3SbUJQoTbKiyVTkqw=
+
+Name: assets/www/js/jquery.ruby.js
+SHA1-Digest: k/5DaqUIrJdHI0V1AA9cAhGBoL0=
+
+Name: assets/www/css/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_
+ 1x100.png
+SHA1-Digest: /gWltY3l8XssqgCVt6ahHdltLfQ=
+
+Name: assets/www/js/bootstrap/carousel.js
+SHA1-Digest: TZfCsAxyx6lwJuLvgntHYtRHycg=
+
+Name: res/drawable-hdpi-v4/large.png
+SHA1-Digest: 5wj62Bq3nupQpx6LnbaWoxpBNdk=
+
+Name: res/drawable-xhdpi-v4/splash.png
+SHA1-Digest: OAXnxW5wKp9tVr31toThEJ8LZf4=
+
+Name: assets/www/ppck/77.txt
+SHA1-Digest: Uvt2lyijThQG5d22dMlUIFKzCCw=
+
+Name: res/drawable-mdpi-v4/large.png
+SHA1-Digest: fwtRkHE7mTBumiW3E/n4i9NAWhE=
+
+Name: res/drawable-mdpi-v4/info.png
+SHA1-Digest: y4WOjg9bqWE0Z3i0IlPUU7msSLU=
+
+Name: assets/www/ppck/67.txt
+SHA1-Digest: Hu4l4QxtptWll7m2xR6tvx1Sehw=
+
+Name: assets/www/ppck/100.txt
+SHA1-Digest: ZhXdVnHzgtxi5P5n4sjcrvGo8Gw=
+
+Name: assets/www/js/bootstrap/scrollspy.js
+SHA1-Digest: /Bmd11ZaBzeoZQ9/fm4EEgF7L8Q=
+
+Name: assets/www/ppck/39.txt
+SHA1-Digest: KUVyiQeXD18XUYadavs+LefJofw=
+
+Name: assets/www/js/howler.js
+SHA1-Digest: 46nCY96hT631IUtQlHk62DVhMRI=
+
+Name: assets/www/images/m.png
+SHA1-Digest: MLyDNrrA7GO/+crHS4UYODpmT14=
+
+Name: assets/www/ppck/80.txt
+SHA1-Digest: 7WdXGEq6LGip7ZW+4daqbXoxomk=
+
+Name: res/drawable-mdpi-v4/splash.png
+SHA1-Digest: YMfOHfSSRLS1cO4pPPM2B17D/t8=
+
+Name: res/drawable-ldpi-v4/quit.png
+SHA1-Digest: 4RqRYW+CXMu8ziTodGLbUuOgWFA=
+
+Name: assets/www/p/index.2.json
+SHA1-Digest: 08G7+7sSVY1nN3+cGfi8rnsl60s=
+
+Name: assets/www/ppck/109.txt
+SHA1-Digest: Y/3SEGzfUhx0WbmI+WbxUpPPRLo=
+
+Name: res/drawable-hdpi-v4/splash.png
+SHA1-Digest: wCuan8SzGxAsGfZMeig4mmzv998=
+
+Name: assets/www/icon.png
+SHA1-Digest: U9MQ0w3CKEY1Ow2U5Iumf1FjIQc=
+
+Name: assets/www/css/cupertino/images/ui-bg_highlight-hard_70_000000_1
+ x100.png
+SHA1-Digest: k492+8YiLa48i9wvS2wb7E25asc=
+
+Name: assets/www/js/jquery-2.1.1.min.js
+SHA1-Digest: WQYlRkGw0Xm9OsFgdhdYOVbVSzc=
+
+Name: assets/www/css/Download_on_the_App_Store_Badge_HK_TW_135x40.png
+SHA1-Digest: 21U9bXzQrg8J1nNg3TgfvJEF+0s=
+
+Name: assets/www/images/right-graphite@2x.png
+SHA1-Digest: uSDeyFrniKWey4dGgOYBHSqnNB0=
+
+Name: assets/www/ppck/119.txt
+SHA1-Digest: 25sKkrLXKLZ+41vYFHC3hDkjPG8=
+
+Name: res/drawable-mdpi-v4/small.png
+SHA1-Digest: Do2+6hDLUUqcKAvFepECoDwpMgU=
+
