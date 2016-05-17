@@ -11,6 +11,8 @@ case $2 in
 	"s") classname="moe_s"; dic="safolu" ;;
 	*) echo "Wrong dictionary name."; exit 10 ;;
 esac
+lang=$2
+cp strings-${lang}.xml moedict-amis/res/values/strings.xml
 cat apktool.yml.in | sed "s/VER/$ver/g;s/VINT/$vint/g;s/DIC/$dic/g" > moedict-amis/apktool.yml
 cat AndroidManifest.xml.in | sed "s/MOECLASSNAME/$classname/g" > moedict-amis/AndroidManifest.xml
 cp -v moedict-amis/assets/www/cordova.js.orig moedict-amis/assets/www/cordova.js

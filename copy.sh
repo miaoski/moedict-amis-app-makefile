@@ -9,9 +9,10 @@ fi
 src="/home/ljm/github/moedict-webkit"
 dst="/home/ljm/github/apk-amis/moedict-amis/assets/www"
 
-echo "Have you modified the STANDALONE params?"
-echo "Remember to gulp build before pressing [Enter] ..."
-read
+cd $src
+cp main.ls main.ls.bak
+perl -i -pe 's/^###APP###.*/window.STANDALONE = \\'$1'/g' main.ls
+gulp build
 
 cd $dst || exit 10
 cp -v "$src/about.html" .
@@ -21,6 +22,8 @@ cp -v "$src/view.ls" .
 cp -v "$src/styles.css" .
 lsc -c main.ls
 lsc -c view.ls
+mv $src/main.ls.bak $src/main.ls
+
 rm -fr images
 rm -fr js
 rm -fr fonts
@@ -37,3 +40,6 @@ cp -av "$src/js" .
 cp -av "$src/fonts" .
 cp -av "$src/css" .
 cp -av "$src/p${lang}ck" .
+:> ./$lang/index.2.json
+:> ./$lang/xref.json
+echo '[]' > ./$lang/=.json
