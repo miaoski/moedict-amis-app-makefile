@@ -1,0 +1,59 @@
+漢語
+----
+萌典-方敏英阿美語字典
+方敏英教士編著的阿美語字典的萌典版。
+
+» 方敏英教士編著的阿美語字典 (感謝台灣聖經公會授權)
+» 請搜尋「萌典」以取得其它版本。
+» 源碼、其他平台版本、API 及原始資料等，均可在 http://3du.tw/ 取得。
+» 字典OCR及校對由 g0v 黑客松及鄉民熱情貢獻。
+» 原始碼在 https://github.com/g0v/moedict-app/tree/amis
+
+本程式內含下列第三方元件：
+* jQuery 及 jQuery UI 由 jQuery Foundation 採用 MIT 授權。
+* cordova.js 由 Apache 基金會採用 Apache v2 授權。
+* Fira Sans 字型由 Mozilla 基金會採用 Apache v2 授權。
+
+感謝 #g0v.tw 頻道內所有協助開發的朋友們。
+萌典的作者是唐鳳，詳細授權內容請見：
+https://github.com/audreyt/moedict-webkit/blob/master/README.md
+
+
+https://github.com/audreyt/moedict-webkit/tree/amis-react
+
+
+日本語
+------
+アミス語萌典—アミス語辞書三冊
+キリスト教会ヴァジニア＝フェイのアミス語辞書と、モリス＝プワンソ神父のアミス語辞書と、蔡中涵元立法委員のアミス語辞書等三冊。
+» アミス語＝中国語辞書
+» ソースコードは https://github.com/g0v/moedict-app/tree/amis に記載いたします。
+
+GitHub でご覧になってください。
+https://github.com/audreyt/moedict-webkit/blob/master/README.md
+
+
+English
+-------
+Virginia Fey's Amis Dictionary
+Moedict Amis-Chinese dictionary, based on Virginia Fey's Amis Dictionary.
+
+* Moedict Amis-Chinese, based on Virginia Fey's Amis Dictionary
+* Dictionnaire Amis-Français de Fr. Maurice Poinsot (Missions Etrangères de Paris)
+* Amis-Chinese Dictionary by Senator Dr. Safolu Tsai.
+* Source code, executables of all platforms, API, source data are available at http://3du.tw/
+* OCR of the printed dictionary has been accomplished by PTT villagers and g0v contributors.-ers
+* Source code: https://github.com/g0v/moedict-app/tree/amis
+
+3rd party software used in the software:
+* jQuery and jQuery UI, MIT License, jQuery Foundation
+* cordova.js, Apache License v2, Apache Foundation
+* Fira Sans, Apache License v2, Mozilla Foundation
+
+All dictionaries reproduced under permission:
+* Bible Society in Taiwan (CC/NC)
+* Père Maurice Poinsot (CC/NC)
+* Senator Safolu Chung-han Tsai
+
+Special thanks to all contributors on IRC #g0v.tw
+Moedict is written by Audrey Tang with contributions from many people and organizations.  License statement is available in https://github.com/audreyt/moedict-webkit/blob/master/README.md
