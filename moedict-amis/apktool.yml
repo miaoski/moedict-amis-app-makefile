@@ -1,5 +1,5 @@
 version: 2.0.2
-apkFileName: moedict-amis-5.5.0.apk
+apkFileName: moedict-amis-safolu-5.6.1.apk
 isFrameworkApk: false
 usesFramework:
   ids:
@@ -10,8 +10,8 @@ sdkInfo:
 packageInfo:
   forced-package-id: '127'
 versionInfo:
-  versionCode: '55100'
-  versionName: 5.5.1
+  versionCode: '56100'
+  versionName: 5.6.1
 sharedLibrary: false
 doNotCompress:
 - resources.arsc
